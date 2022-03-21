@@ -1,0 +1,2 @@
+# GRIP-TASK6-MARCH22-PREDICTION-USING-DECISION-TREE-ALGORITHM
+Internship Project for the sparks foundation
